@@ -19,7 +19,7 @@
   "dependencies": {
     "baconjs": "^0.7.70",
     "browser-sync": "^2.8.0",
-    "browserify": "^10.2.4",
+    "browserify": "^15.0.0",
     "cheerio": "^0.17.0",
     "classnames": "^2.1.2",
     "envify": "^3.4.0",
