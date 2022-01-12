@@ -46,7 +46,7 @@
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
     "q": "^1.4.1",
-    "shelljs": "^0.3.0",
+    "shelljs": "^0.8.5",
     "uglifyjs": "^2.4.10",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
