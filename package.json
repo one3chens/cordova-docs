@@ -18,7 +18,7 @@
   "license": "Apache Version 2.0",
   "dependencies": {
     "baconjs": "^0.7.70",
-    "browser-sync": "^2.8.0",
+    "browser-sync": "^3.0.3",
     "browserify": "^10.2.4",
     "cheerio": "^0.17.0",
     "classnames": "^2.1.2",
